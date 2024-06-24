@@ -8,7 +8,7 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 
 ## Installation
-1. Télecharger le jeu ("Duel Game.zip")[https://github.com/loicsmith/Duel-Game/releases/latest]
+1. Télecharger le jeu ["Duel Game.zip"](https://github.com/loicsmith/Duel-Game/releases/latest)
 2. Extraire le le .zip où vous souhaitez
 3. Lancer le .exe
 4. Have fun !
