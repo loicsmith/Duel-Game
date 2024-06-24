@@ -12,6 +12,10 @@ Le jeu de duel idéal pour affronter un ami !
 
 En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith (ou Loicsmith#0275)
 
+## ℹ️ Informations :
+- Le jeu est disponible sur forme de P2P
+- Local uniquement (cependant vous pouvez utiliser Hamachi pour jouer avec des amis)
+
  ## ⚠️ Avertissement :
  - Conformément à la propriété intellectuelle, la décompilation et la modification sans accord préalable de ce jeu est strictement interdite.
 
