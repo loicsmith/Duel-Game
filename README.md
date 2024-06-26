@@ -3,9 +3,9 @@
 Le jeu de duel idéal pour affronter un ami !
 
 ## 📚 Installation
-1. Télécharger le jeu "[Duel Game.zip](https://github.com/loicsmith/Duel-Game/releases/latest)"
-2. Extraire le .zip où vous souhaitez
-3. Lancer le .exe
+1. Télécharger le launcher "[Launcher Duel Game.exe](https://github.com/loicsmith/Duel-Game/releases/latest)"
+2. Placer le launcher dans un dossier
+3. Lancer le launcher
 4. Have fun !
 
 ## 📫 Contact
