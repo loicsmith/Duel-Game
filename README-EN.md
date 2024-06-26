@@ -2,6 +2,8 @@
 
 The ideal dueling game to take on a friend!
 
+Don't speak English ? Try [this](https://github.com/loicsmith/Duel-Game/blob/master/README.md)
+
 ## 📚 Installation
 1. Download the launcher “[Launcher Duel Game.exe](https://github.com/loicsmith/Duel-Game/releases/latest)”
 2. Place the launcher in a folder
