@@ -10,7 +10,7 @@ Le jeu de duel idéal pour affronter un ami !
 
 ## 📫 Contact
 
-En cas de problème/questions, vous pouvez me contacter sur discord : loicsmith (ou Loicsmith#0275)
+En cas de problème/questions, vous pouvez me contacter sur discord : https://discord.com/invite/x2dtvZZJF8
 
 ## ℹ️ Informations :
 - Le jeu est disponible sous forme de P2P
